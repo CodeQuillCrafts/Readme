@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me
-  - Email : codequillcrafts@gmail.com.
+  - 📩 Email Me : codequillcrafts@gmail.com.
   - 📞 My phone Number : +917011010256.
 
 <!---
